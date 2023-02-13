@@ -35,7 +35,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 You will need to clone the repository of the project from Github. This will contain the simple shell program and all of its dependencies.
 
-git clone https://github.com/BISHOPDAN/AirBnB_clone.git
+git clone https://github.com/Nayhomi25/AirBnB_clone.git
 ***
 After cloning the repository you will have a folder called AirBnB_clone. In here there will be several files that allow the program to work.
 
@@ -113,7 +113,7 @@ In Interactive Mode the commands will need to be written with a keyboard when th
 Most commands have several options or arguments that can be used when executing the program. In order for the Shell to recognize those parameters, the user must separate everything with spaces.
 
 Example:
-
+'''
 
 user@ubuntu:~/AirBnB$ ./console.py
 (hbnb) create BaseModel
@@ -127,5 +127,5 @@ user@ubuntu:~/AirBnB$ ./console.py $ echo "create BaseModel" | ./console.py
 e37ebcd3-f8e1-4c1f-8095-7a019070b1fa
 (hbnb)
 user@ubuntu:~/AirBnB$ ./console.py
-
+'''
 
